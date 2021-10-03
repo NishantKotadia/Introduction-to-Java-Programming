@@ -15,7 +15,7 @@ prompt the user to enter the number of days after today for a future day and dis
  *
  */
 
-public class Main {
+public class Exercise03_05 {
 
     public static void main(String[] args) {
 
