@@ -19,7 +19,7 @@ a 7 or the same point value is rolled. If 7 is rolled, you lose. Otherwise, you 
 (Game: chance of winning at craps) Revise Exercise 5.30 to run it 10,000 times
 and display the number of winning games
 */
-public class github {
+public class Exercise05_32 {
     public static void main(String[] args) {
 
         int win = 0;// defining win variable as int for storing the winning count
