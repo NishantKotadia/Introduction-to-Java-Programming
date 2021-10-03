@@ -12,7 +12,7 @@ following output:
 *
 */
 
-public class Main {
+public class Exercise04_19 {
 
     public static void main(String[] args) {
 
